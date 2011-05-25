@@ -1,0 +1,18 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>images/copy.png</file>
+    <file>images/cut.png</file>
+    <file>images/new.png</file>
+    <file>images/open.png</file>
+    <file>images/paste.png</file>
+    <file>images/save.png</file>
+    <file>images/microscope.png</file>
+    <file>images/histogram.png</file>
+    <file>images/tag.png</file>
+    <file>images/50x.png</file>
+    <file>images/100x.png</file>
+    <file>images/200x.png</file>
+    <file>images/500x.png</file>
+    <file>images/1000x.png</file>
+</qresource>
+</RCC>
